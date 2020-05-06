@@ -11,7 +11,7 @@
 
 // You likely need two semaphores to do this correctly, and some
 // other integers to track things.
-
+// 
 typedef struct __barrier_t
 {
     // add semaphores and other information here
