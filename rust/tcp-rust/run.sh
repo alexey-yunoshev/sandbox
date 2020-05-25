@@ -1,9 +1,14 @@
 #!/bin/bash
 cargo b --release
+ext=$?
+if [[ $ext -ne 0 ]]; then
+    exit $ext
+fi
+
 sudo setcap cap_net_admin=eip target/release/tcp-rust
 ./target/release/tcp-rust &
 pid=$!
-sudo ip addr add 192.158.0.1/24 dev tun0
+sudo ip addr add 192.168.0.1/24 dev tun0
 sudo ip link set up dev tun0
 trap "kill $pid" INT TERM
 wait $pid
