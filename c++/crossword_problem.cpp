@@ -50,7 +50,7 @@ std::vector<T> slice(std::vector<T> const &sourceVector, int start, int end) {
 }
 
 int main() {
-    set<string> dictionary = {"hi", "hey", "her", "my", "ok", "he", "me", "orm", "no"};
+    set<string> dictionary = {"hi", "hey", "her", "my", "ok", "he", "me", "orm", "no", "ykro"};
     vector<vector<string>> puzzle;
 
     puzzle.push_back({"h", "e", "y", "o"});
@@ -86,7 +86,7 @@ int main() {
                 vector<string> word_letters;
 
                 for (int i = rowIndex; i < rowEndIndex; i++) {
-                    word_letters.push_back(puzzle[rowIndex][columnIndex]);
+                    word_letters.push_back(puzzle[i][columnIndex]);
                 }
 
                 string word = join(word_letters);
