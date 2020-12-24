@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/alexe/CLionProjects/sandbox/c++/basic_io/permutations.cpp
+iostream
+-
+fstream
+-
+string
+-
+functional
+-
+

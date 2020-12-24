@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/alexe/CLionProjects/sandbox/c++/basic_io/basic_io.cpp
+iostream
+-
+fstream
+-
+string
+-
+functional
+-
+

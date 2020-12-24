@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="basic_io"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="msvc8"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/alexe/CLionProjects/sandbox/c++/basic_io/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\alexe\CLionProjects\sandbox\c++\basic_io\cmake-build-debug\Makefile VERBOSE=1 all"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\alexe\CLionProjects\sandbox\c++\basic_io\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\alexe\CLionProjects\sandbox\c++\basic_io\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\alexe\CLionProjects\sandbox\c++\basic_io\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ones_count_in_binary_representation">
+				<Option output="C:/Users/alexe/CLionProjects/sandbox/c++/basic_io/cmake-build-debug/ones_count_in_binary_representation.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/alexe/CLionProjects/sandbox/c++/basic_io/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2017\BuildTools\VC\Tools\MSVC\14.16.27023\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\alexe\CLionProjects\sandbox\c++\basic_io\cmake-build-debug\Makefile VERBOSE=1 ones_count_in_binary_representation"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\alexe\CLionProjects\sandbox\c++\basic_io\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\alexe\CLionProjects\sandbox\c++\basic_io\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\alexe\CLionProjects\sandbox\c++\basic_io\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ones_count_in_binary_representation/fast">
+				<Option output="C:/Users/alexe/CLionProjects/sandbox/c++/basic_io/cmake-build-debug/ones_count_in_binary_representation.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/alexe/CLionProjects/sandbox/c++/basic_io/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2017\BuildTools\VC\Tools\MSVC\14.16.27023\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\alexe\CLionProjects\sandbox\c++\basic_io\cmake-build-debug\Makefile VERBOSE=1 ones_count_in_binary_representation/fast"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\alexe\CLionProjects\sandbox\c++\basic_io\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\alexe\CLionProjects\sandbox\c++\basic_io\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\alexe\CLionProjects\sandbox\c++\basic_io\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="basic_io">
+				<Option output="C:/Users/alexe/CLionProjects/sandbox/c++/basic_io/cmake-build-debug/basic_io.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/alexe/CLionProjects/sandbox/c++/basic_io/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2017\BuildTools\VC\Tools\MSVC\14.16.27023\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\alexe\CLionProjects\sandbox\c++\basic_io\cmake-build-debug\Makefile VERBOSE=1 basic_io"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\alexe\CLionProjects\sandbox\c++\basic_io\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\alexe\CLionProjects\sandbox\c++\basic_io\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\alexe\CLionProjects\sandbox\c++\basic_io\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="basic_io/fast">
+				<Option output="C:/Users/alexe/CLionProjects/sandbox/c++/basic_io/cmake-build-debug/basic_io.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/alexe/CLionProjects/sandbox/c++/basic_io/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2017\BuildTools\VC\Tools\MSVC\14.16.27023\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\alexe\CLionProjects\sandbox\c++\basic_io\cmake-build-debug\Makefile VERBOSE=1 basic_io/fast"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\alexe\CLionProjects\sandbox\c++\basic_io\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\alexe\CLionProjects\sandbox\c++\basic_io\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\alexe\CLionProjects\sandbox\c++\basic_io\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/alexe/CLionProjects/sandbox/c++/basic_io/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\alexe\CLionProjects\sandbox\c++\basic_io\cmake-build-debug\Makefile VERBOSE=1 edit_cache"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\alexe\CLionProjects\sandbox\c++\basic_io\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\alexe\CLionProjects\sandbox\c++\basic_io\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\alexe\CLionProjects\sandbox\c++\basic_io\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="permutations">
+				<Option output="C:/Users/alexe/CLionProjects/sandbox/c++/basic_io/cmake-build-debug/permutations.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/alexe/CLionProjects/sandbox/c++/basic_io/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2017\BuildTools\VC\Tools\MSVC\14.16.27023\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\alexe\CLionProjects\sandbox\c++\basic_io\cmake-build-debug\Makefile VERBOSE=1 permutations"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\alexe\CLionProjects\sandbox\c++\basic_io\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\alexe\CLionProjects\sandbox\c++\basic_io\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\alexe\CLionProjects\sandbox\c++\basic_io\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="permutations/fast">
+				<Option output="C:/Users/alexe/CLionProjects/sandbox/c++/basic_io/cmake-build-debug/permutations.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/alexe/CLionProjects/sandbox/c++/basic_io/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2017\BuildTools\VC\Tools\MSVC\14.16.27023\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\alexe\CLionProjects\sandbox\c++\basic_io\cmake-build-debug\Makefile VERBOSE=1 permutations/fast"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\alexe\CLionProjects\sandbox\c++\basic_io\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\alexe\CLionProjects\sandbox\c++\basic_io\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\alexe\CLionProjects\sandbox\c++\basic_io\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/alexe/CLionProjects/sandbox/c++/basic_io/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\alexe\CLionProjects\sandbox\c++\basic_io\cmake-build-debug\Makefile VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\alexe\CLionProjects\sandbox\c++\basic_io\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\alexe\CLionProjects\sandbox\c++\basic_io\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\alexe\CLionProjects\sandbox\c++\basic_io\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/alexe/CLionProjects/sandbox/c++/basic_io/basic_io.cpp">
+			<Option target="basic_io"/>
+		</Unit>
+		<Unit filename="C:/Users/alexe/CLionProjects/sandbox/c++/basic_io/ones_count_in_binary_representation.cpp">
+			<Option target="ones_count_in_binary_representation"/>
+		</Unit>
+		<Unit filename="C:/Users/alexe/CLionProjects/sandbox/c++/basic_io/permutations.cpp">
+			<Option target="permutations"/>
+		</Unit>
+		<Unit filename="C:/Users/alexe/CLionProjects/sandbox/c++/basic_io/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

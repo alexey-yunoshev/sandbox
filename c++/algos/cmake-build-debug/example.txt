@@ -1,0 +1,5 @@
+#include "example2.cpp"
+
+int main () {
+    return 0;
+}

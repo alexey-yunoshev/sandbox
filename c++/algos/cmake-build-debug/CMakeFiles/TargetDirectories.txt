@@ -1,0 +1,5 @@
+C:/Users/alexe/CLionProjects/sandbox/c++/basic_io/cmake-build-debug/CMakeFiles/ones_count_in_binary_representation.dir
+C:/Users/alexe/CLionProjects/sandbox/c++/basic_io/cmake-build-debug/CMakeFiles/basic_io.dir
+C:/Users/alexe/CLionProjects/sandbox/c++/basic_io/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/alexe/CLionProjects/sandbox/c++/basic_io/cmake-build-debug/CMakeFiles/permutations.dir
+C:/Users/alexe/CLionProjects/sandbox/c++/basic_io/cmake-build-debug/CMakeFiles/rebuild_cache.dir
